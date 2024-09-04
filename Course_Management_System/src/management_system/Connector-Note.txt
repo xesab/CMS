@@ -1,0 +1,1 @@
+Please open connector.java and Enter you database email and password.
